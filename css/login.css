@@ -3,7 +3,6 @@
     margin: 0;
     box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
 
 body {
     width: 100%;
@@ -11,6 +10,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background: url(../img/fdn.jpg);
+    background-size: cover;
 }
 
 form{
